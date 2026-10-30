@@ -1,0 +1,16 @@
+{
+	"mcpServers": {
+		"FancyMCP": {
+			"type": "stdio",
+			"command": "/usr/local/share/dotnet/dotnet",		
+			"args": [
+				"run",
+				"--project",
+				"/Users/johnngumba/Documents/Vee/Projects/Personal/FancyMCP/FancyMCP.Console/FancyMCP.Console.csproj"
+			],
+			"tools": [
+				"*"
+			]
+		}
+	}
+}
