@@ -48,3 +48,5 @@
 /Users/johnngumba/Documents/Vee/Projects/Personal/FancyMCP/FancyMCP.Console/obj/Debug/net10.0/FancyMCP.Console.pdb
 /Users/johnngumba/Documents/Vee/Projects/Personal/FancyMCP/FancyMCP.Console/obj/Debug/net10.0/FancyMCP.Console.genruntimeconfig.cache
 /Users/johnngumba/Documents/Vee/Projects/Personal/FancyMCP/FancyMCP.Console/obj/Debug/net10.0/ref/FancyMCP.Console.dll
+/Users/johnngumba/Documents/Vee/Projects/Personal/FancyMCP/FancyMCP.Console/obj/Debug/net10.0/FancyMCP.Console.sourcelink.json
+/Users/johnngumba/Documents/Vee/Projects/Personal/FancyMCP/FancyMCP.Console/bin/Debug/net10.0/Microsoft.Extensions.Http.dll

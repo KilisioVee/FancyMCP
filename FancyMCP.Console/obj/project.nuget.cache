@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sR+3PleIuQI=",
+  "dgSpecHash": "oLVHjHhCBL4=",
   "success": true,
   "projectFilePath": "/Users/johnngumba/Documents/Vee/Projects/Personal/FancyMCP/FancyMCP.Console/FancyMCP.Console.csproj",
   "expectedPackageFiles": [
@@ -23,6 +23,7 @@
     "/Users/johnngumba/.nuget/packages/microsoft.extensions.filesystemglobbing/10.0.14/microsoft.extensions.filesystemglobbing.10.0.14.nupkg.sha512",
     "/Users/johnngumba/.nuget/packages/microsoft.extensions.hosting/10.0.14/microsoft.extensions.hosting.10.0.14.nupkg.sha512",
     "/Users/johnngumba/.nuget/packages/microsoft.extensions.hosting.abstractions/10.0.14/microsoft.extensions.hosting.abstractions.10.0.14.nupkg.sha512",
+    "/Users/johnngumba/.nuget/packages/microsoft.extensions.http/10.0.14/microsoft.extensions.http.10.0.14.nupkg.sha512",
     "/Users/johnngumba/.nuget/packages/microsoft.extensions.logging/10.0.14/microsoft.extensions.logging.10.0.14.nupkg.sha512",
     "/Users/johnngumba/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.14/microsoft.extensions.logging.abstractions.10.0.14.nupkg.sha512",
     "/Users/johnngumba/.nuget/packages/microsoft.extensions.logging.configuration/10.0.14/microsoft.extensions.logging.configuration.10.0.14.nupkg.sha512",
